@@ -42,7 +42,7 @@ h3 {
 	border-bottom: 2px solid #ffffff;
 	position: relative;
 	z-index: 100;
-        font-weight: bold; 
+        font-weight: bold;
         font-family: "Open Sans Condensed", sans-serif;
 	font-size: 14pt;
 }
@@ -151,9 +151,9 @@ h3 {
 	bottom: 0;
 }
 @media (min-width: 550px) {
-        #top_heading_inside { 
-                font-size: 80pt; 
-                letter-spacing: 10px; 
+        #top_heading_inside {
+                font-size: 80pt;
+                letter-spacing: 10px;
         }
 }
 #front_blocks {
@@ -187,8 +187,6 @@ h3 {
 }
 .main {
 	padding: 65px 0 65px 0;
-	display: flex;
-	height: 100%;
 	border-bottom: 1px solid #000;
 }
 #front_blurb {
