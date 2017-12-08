@@ -155,6 +155,10 @@ h3 {
                 font-size: 80pt;
                 letter-spacing: 10px;
         }
+				.center_vert_desktop {
+					display: flex;
+					align-items: center;
+				}
 }
 #front_blocks {
 	text-transform: uppercase;

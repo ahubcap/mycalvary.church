@@ -70,7 +70,7 @@
 		</div>
 	</div>
 	<div class="container" id="main_content">
-		<div class="main row" id="front_blurb">
+		<div class="main row center_vert_desktop" id="front_blurb">
 			<div class="five columns">
 				<h1>sundays</h1>
 				<p>We have a fun, relaxed, inviting atmosphere that focuses on building lasting friendships, bringing families closer together and delivering the good news of the Gospel using relevant teachings and exciting music. No matter where you are in your life, we would love to see you join us.</p>
@@ -121,7 +121,7 @@
 				<h1>calvary events</h1>
 			</div>
 		</div>
-		<div class="event_item row">
+		<div class="event_item row center_vert_desktop">
 			<div class="eight columns">
 				<img src="assets/images/christmaseve.jpg" class="event_img" />
 			</div>
