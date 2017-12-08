@@ -5,15 +5,15 @@
 	<title>Calvary Church | Assemblies of God Church in Inverness, Florida</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
-	
+
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
+
 	<link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
-	
+
 	<link rel="stylesheet" href="assets/css/normalize.css">
 	<link rel="stylesheet" href="assets/css/skeleton.css">
 	<link rel="stylesheet" href="assets/css/style.css">
-	
+
 	<link rel="icon" type="image/png" href="assets/images/favicon.png">
 </head>
 
@@ -70,7 +70,7 @@
 		</div>
 	</div>
 	<div class="container" id="main_content">
-		<div class="main row" id="front_blurb">
+		<div class="row" id="front_blurb">
 			<div class="five columns">
 				<h1>sundays</h1>
 				<p>We have a fun, relaxed, inviting atmosphere that focuses on building lasting friendships, bringing families closer together and delivering the good news of the Gospel using relevant teachings and exciting music. No matter where you are in your life, we would love to see you join us.</p>
@@ -85,7 +85,7 @@
 				<a href="#" class="button">More About Life Groups</a>
 			</div>
 		</div>
-		<div id="about" class="main row">
+		<div id="about" class="row">
 			<div class="four columns">
 				<h1>about calvary</h1>
 				<p>We are passionate about the love of Jesus. Our focus is to reach the lost, rebuild relationships, encourage the community and grow families through relevant Bible teachings, exciting worship and family-based programs.</p>
@@ -116,7 +116,7 @@
 				</div>
 			</div>
 		</div>
-		<div id="events" class="main row"><div class="twelve columns"><div class="row">
+		<div id="events" class="row"><div class="twelve columns"><div class="row">
 			<div class="twelve columns">
 				<h1>calvary events</h1>
 			</div>
