@@ -208,8 +208,6 @@ h3 {
 	border: 0;
 }
 .event_item {
-	display: flex;
-	align-items: center;
 	margin-bottom: 40px;
 }
 .event_img {
