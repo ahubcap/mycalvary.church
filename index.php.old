@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+
+		<meta charset="utf-8">
+		<title>mycalvary.ch</title>
+		<meta name="description" content="">
+		<meta name="author" content="">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/skeleton.css">
+		<link rel="stylesheet" href="css/style.css">
+
+		<link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+
+		<link rel="icon" type="image/png" href="images/favicon.png">
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script src="js/panels.js"></script>
+
+	</head>
+
+	<body>
+
+		<div class="container">
+
+			<div class="panel" id="message">
+				<a href="javascript:;" class="row heading">
+					<div class="twelve columns">
+						<span>latest message</span>
+					</div>
+				</a>
+			</div>
+
+			<div class="panel" id="happening">
+				<a href="javascript:;" class="row heading">
+					<div class="twelve columns">
+						<span>what's happening</span>
+					</div>
+				</a>
+			</div>
+
+			<div class="panel" id="giving">
+				<a href="javascript:;" class="row heading">
+					<div class="twelve columns">
+						<span>giving</span>
+					</div>
+				</a>
+			</div>
+
+			<div class="panel" id="groups">
+				<a href="javascript:;" class="row heading">
+						<div class="twelve columns">
+							<span>small groups</span>
+						</div>
+				</a>
+				<div class="row collapse">
+					<div class="four columns">
+						<p>Finding a group is easy! Simply use the filters below to narrow down the search results to a few groups, then easily connect with the group for you. The fall semester will start on September 3 and end on November 18.</p>
+					</div>
+					<div class="eight columns">
+
+						<div class="group-item">
+							<a href="javascript:;" class="group-title">
+								<span>"Fishers of Fish" - Men's Fishing Life Group</span>
+							</a>
+							<div class="group-content">
+								<table>
+									<tr><td class="property">Stage of Life</td><td class="option">Men Only</td></tr>
+									<tr><td class="property">Neighborhood</td><td class="option">Hernando</td></tr>
+									<tr><td class="property">Season</td><td class="option">Winter</td></tr>
+								</table>
+								<p><b>I am excited to be leading a fishing life group for men!</b>   The goal here is to have as many members with boats as possible which will allow us to host 1-2 non-boat owners.     I am also looking for some leaders to help decide on locations and help organize the fishing events.    The current plan is to meet at the boat launch at day break, head out for some fishing and fellowship, then gather together for lunch to share stories/pictures of the big one that hopefully did not get away!     Both salt and fresh water outings are planned.</p>
+	<p><b>Once we get a count of boat owners, we will determine how many non-boat owners we can support and non-boat owners will be accepted based on when they sign up, so do not delay!</b></p>
+
+	<p><a href="google.com">- Dan Nichols</a></p>
+							</div>
+						</div>									
+
+						<div class="group-item">
+							<a href="javascript:;" class="group-title">
+								<span>Bible Art Journaling Life Group</span>
+							</a>
+							<div class="group-content">
+                                                                <table>
+                                                                        <tr><td class="property">Stage of Life</td><td class="option">Men Only</td></tr>
+                                                                        <tr><td class="property">Neighborhood</td><td class="option">Hernando</td></tr>
+                                                                        <tr><td class="property">Season</td><td class="option">Winter</td></tr>
+                                                                </table>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="panel" id="connect">
+				<a href="javascript:;" class="row heading">
+					<div class="twelve columns">
+						<span>connect</span>
+					</div>
+				</a>
+			</div>
+
+		</div>
+
+</html>
