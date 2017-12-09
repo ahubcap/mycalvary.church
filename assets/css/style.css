@@ -174,10 +174,18 @@ h3 {
                 font-size: 80pt;
                 letter-spacing: 10px;
         }
-				.event_item {
+				.event_item,#front_blurb {
 					display: flex;
 					align-items: center;
 				}
+}
+@media (max-width: 549px) {
+		#spacer {
+			display:none;
+		}
+		div.main > div:nth-child(n + 2) {
+			padding-top: 30px;
+		}
 }
 #front_blocks {
 	text-transform: uppercase;
