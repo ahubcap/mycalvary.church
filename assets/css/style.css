@@ -33,11 +33,10 @@ h3 {
 	height: 80vh;
 	min-height: 300px;
 	width: 100%;
-	background: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url("../../assets/images/cover.jpg") no-repeat center center;
+	background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .3)), url("../../assets/images/cover.jpg") no-repeat center center;
 	background-size: cover;
 }
 #top_menu {
-	padding-top: 15px;
 	height: 80px;
 	border-bottom: 2px solid #ffffff;
 	position: relative;
@@ -46,13 +45,20 @@ h3 {
         font-family: "Open Sans Condensed", sans-serif;
 	font-size: 14pt;
 }
+#top_menu li:hover {
+	border-bottom: 2px solid #ffffff;
+}
+#top_menu a:hover {
+	color: #aaa;
+}
 #calvary_logo {
         height: 50px;
         width: auto;
+		padding-top: 15px;
 }
 #primary_nav_wrap
 {
-	margin-top:15px;
+	height: 80px;
 	display: flex;
 	justify-content: right;
 }
@@ -80,7 +86,13 @@ h3 {
 	position:relative;
 	float:left;
 	margin:0;
-	padding:0
+	padding:0;
+}
+ #primary_nav_wrap .top_level {
+	display:flex;
+	align-items: center;
+	height: 78px;
+
 }
 
 #primary_nav_wrap ul li.current-menu-item
@@ -90,7 +102,8 @@ h3 {
 
 #primary_nav_wrap ul li:hover
 {
-	background: rgba(0,0,0,.8);
+	background: #000000;
+	border-bottom: 0px;
 }
 
 #primary_nav_wrap ul ul
@@ -99,17 +112,23 @@ h3 {
 	position:absolute;
 	top:100%;
 	left:0;
-	background: rgba(0,0,0,.7);
-	padding:15;
-	border-right: 1px solid #ffffff;
-	border-bottom: 1px solid #ffffff;
-	border-left: 1px solid #ffffff;
+	background: #000000;
+	padding-bottom:15px;
+	padding-top:15px;
+	border-top: 2px solid #ffffff;
+	/**	border-right: 1px solid #ffffff;
+	border-left: 1px solid #ffffff; **/
+}
+#primary_nav_wrap #give_menu {
+	right:0;
+	left:inherit;
 }
 
 #primary_nav_wrap ul ul li
 {
 	float:none;
-	width:200px
+	width:200px;
+	height: 40px;
 }
 
 #primary_nav_wrap ul ul a
@@ -155,7 +174,7 @@ h3 {
                 font-size: 80pt;
                 letter-spacing: 10px;
         }
-				.center_vert_desktop {
+				.event_item {
 					display: flex;
 					align-items: center;
 				}

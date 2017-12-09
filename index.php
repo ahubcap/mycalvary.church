@@ -25,7 +25,7 @@
 			<div class="eight columns">
 			<nav id="primary_nav_wrap">
 				<ul>
-					<li><a href="#">About Us</a>
+					<li><a href="#" class="top_level">About Us</a>
 						<ul>
 							<li><a href="#">About Us</a></li>
 							<li><a href="#">Kids</a></li>
@@ -35,8 +35,8 @@
 							<li><a href="#">Our Staff</a></li>
 						</ul>
 					</li>
-					<li><a href="#">Sermons</a></li>
-					<li><a href="#">Next Steps</a>
+					<li><a href="#" class="top_level">Sermons</a></li>
+					<li><a href="#" class="top_level">Next Steps</a>
 						<ul>
 							<li><a href="#">Next Steps</a></li>
 							<li><a href="#">Life Groups</a></li>
@@ -46,9 +46,9 @@
 							<li><a href="#">Launch</a></li>
 						</ul>
 					</li>
-					<li><a href="#">Contact</a></li>
-					<li><a href="#">Give</a>
-						<ul>
+					<li><a href="#" class="top_level">Contact</a></li>
+					<li><a href="#" class="top_level">Give</a>
+						<ul id="give_menu">
 							<li><a href="#">Why We Give</a></li>
 							<li><a href="#">Give Now</a></li>
 							<li><a href="#">Schedule Your Giving</a></li>
@@ -121,7 +121,7 @@
 				<h1>calvary events</h1>
 			</div>
 		</div>
-		<div class="event_item row center_vert_desktop">
+		<div class="event_item row">
 			<div class="eight columns">
 				<img src="assets/images/christmaseve.jpg" class="event_img" />
 			</div>
