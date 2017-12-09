@@ -167,7 +167,9 @@ h3 {
 	width: 100%;
 	position: absolute;
 	top: 0;
+	right: 0;
 	bottom: 0;
+	left: 0;
 }
 @media (min-width: 550px) {
         #top_heading_inside {
@@ -180,11 +182,17 @@ h3 {
 				}
 }
 @media (max-width: 549px) {
+		#primary_nav_wrap {
+			display:none;
+			}
 		#spacer {
 			display:none;
 		}
 		div.main > div:nth-child(n + 2) {
 			padding-top: 30px;
+		}
+		div.event_item > div:first-child {
+			padding-bottom: 30px;
 		}
 }
 #front_blocks {
