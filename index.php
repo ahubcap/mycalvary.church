@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 
+<html lang="en">
+	
 <head>
 	<meta charset="utf-8">
 	<title>Calvary Church | Assemblies of God Church in Inverness, Florida</title>
@@ -21,7 +23,7 @@
 	<div class="ul-full-width" id="top_container">
 		<div id="top_menu" class="container">
 			<div class="row"><div class="four columns">
-			<img src="assets/images/calvary_logo.png" id="calvary_logo" /></div>
+			<img src="assets/images/calvary_logo.png" id="calvary_logo" alt="logo" /></div>
 			<div class="eight columns">
 			<nav id="primary_nav_wrap">
 				<ul>
@@ -77,7 +79,7 @@
 				<a href="#" class="button">More About Sundays</a>
 			</div>
 			<div class="two columns" id="spacer">
-				<img src="assets/images/black.jpg">
+				<img src="assets/images/black.jpg" alt="|">
 			</div>
 			<div class="five columns">
 				<h1>life groups</h1>
@@ -111,7 +113,7 @@
 				</div>
 				<div class="row">
 					<div class="twelve columns">
-						<iframe class="u-full-width" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d111751.09041404405!2d-82.50966963758829!3d28.921471345579352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e872780907ed6f%3A0x1769547fe250722b!2sCalvary+Church!5e0!3m2!1sen!2sus!4v1512621362448" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
+						<iframe class="u-full-width" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d111751.09041404405!2d-82.50966963758829!3d28.921471345579352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e872780907ed6f%3A0x1769547fe250722b!2sCalvary+Church!5e0!3m2!1sen!2sus!4v1512621362448" height="200" style="border:0" allowfullscreen></iframe>
 					</div>
 				</div>
 			</div>
@@ -123,7 +125,7 @@
 		</div>
 		<div class="event_item row">
 			<div class="eight columns">
-				<img src="assets/images/christmaseve.jpg" class="event_img" />
+				<img src="assets/images/christmaseve.jpg" class="event_img" alt="Christmas Eve" />
 			</div>
 			<div class="four columns">
 				<h3>Christmas Eve</h3>
@@ -133,7 +135,7 @@
 		</div>
 		<div class="event_item row">
 			<div class="eight columns">
-				<img src="assets/images/WRHEADER.gif" class="event_img" />
+				<img src="assets/images/WRHEADER.gif" class="event_img" alt="Winter Ramp" />
 			</div>
 			<div class="four columns">
 				<h3>Winter Ramp</h3>
